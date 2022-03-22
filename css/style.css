@@ -48,17 +48,37 @@ h1 {
     padding: 2px;
     border-radius: 50%;
 }
+.xmark {
+    color: red;
+    border: 2px solid red;
+    padding: 2px;
+    border-radius: 50%; 
+}
 .azzurro {
     background-color: rgb(0, 162, 255);
     color: white;
-    font-size: small;
+    font-size: 10px;
     padding: 10px;
     border-radius: 15px;
 }
 #viola {
     background-color: rgb(159, 130, 238);
     color: white;
-    font-size: small;
+    font-size: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+#verde {
+    background-color: rgb(0, 128, 64);
+    color: white;
+    font-size: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+#arancione {
+    background-color: orange;
+    color: white;
+    font-size: 10px;
     padding: 10px;
     border-radius: 15px;
 }
