@@ -5,6 +5,7 @@ body {
 .banner {
     background-color: white;
     padding: 10px;
+    margin: 0;
 }
 h1 {
     display: inline-block;
@@ -36,5 +37,29 @@ h1 {
     border: 1px solid lightgrey;
 }
 #bigsection {
-    
+    background-color: white;
 }
+.testo {
+    margin-bottom: 15px;
+}
+.checkmark {
+    color: green;
+    border: 2px solid green;
+    padding: 2px;
+    border-radius: 50%;
+}
+.azzurro {
+    background-color: rgb(0, 162, 255);
+    color: white;
+    font-size: small;
+    padding: 10px;
+    border-radius: 15px;
+}
+#viola {
+    background-color: rgb(159, 130, 238);
+    color: white;
+    font-size: small;
+    padding: 10px;
+    border-radius: 15px;
+}
+
